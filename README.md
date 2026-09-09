@@ -5,6 +5,7 @@ O "Assistente Financeiro" é um app de finanças pessoais focado em conversaçã
 
 PRINT do app
 <img width="1201" height="1038" alt="image" src="https://github.com/user-attachments/assets/8892d95d-146a-4b3d-a7dd-5fd3e9c89f58" />
+<img width="1201" height="1038" alt="image" src="https://github.com/user-attachments/assets/2c86939b-3702-4c23-bd11-f40820d89076" />
 
 
 2. PROMPT FINAL (PRD)
@@ -16,8 +17,6 @@ Estrutura de Telas e Lógica (Persistência via localStorage):
 - Tela de Dashboard: Blocos de 'Entradas', 'Saídas' e 'Saldo'. Abaixo, um gráfico de pizza dinâmico e uma lista de "Histórico de Transações" gerados pelo Chat.
 
 Gere os componentes garantindo que o estado (State Management) não se perca ao dar F5.
-
-[ ESPAÇO PARA PRINT/VÍDEO 2: Demonstração da edição de Metas e Histórico ]
 
 3. REFLEXÃO SOBRE O PROCESSO
 
