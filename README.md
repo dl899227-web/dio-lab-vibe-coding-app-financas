@@ -1,4 +1,4 @@
-=== RELATÓRIO DO PROJETO: ASSISTENTE FINANCEIRO CONVERSACIONAL ===
+# RELATÓRIO DO PROJETO: ASSISTENTE FINANCEIRO CONVERSACIONAL
 
 1. RESUMO DO APLICATIVO
 O "Assistente Financeiro" é um app de finanças pessoais focado em conversação, criado para eliminar a fricção das planilhas tradicionais. O usuário registra seus gastos e ganhos enviando mensagens em linguagem natural (ex: "gastei 50 no almoço"), e o aplicativo extrai o valor, classifica a categoria e atualiza o saldo automaticamente. O grande diferencial é a funcionalidade "Economia com Propósito": quando o usuário registra que economizou dinheiro, a IA comemora e sugere alocar esse valor para uma grande meta de vida (como a compra de um terreno, moto ou fundo de investimentos), usando a ciência da felicidade para transformar restrição financeira em motivação.
